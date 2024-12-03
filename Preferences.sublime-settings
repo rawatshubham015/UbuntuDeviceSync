@@ -1,0 +1,31 @@
+{
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"index_files": true,
+	"font_size": 11,
+	"font_face": "Ubuntu Mono",
+	"color_scheme": "Monokai.sublime-color-scheme",
+	"theme": "Adaptive.sublime-theme",
+	"open_files_in_new_window": false,
+	"word wrap": true,
+	"wrap_width": 80,
+	"spellcheck": false,
+	"scroll_past_end": true,
+	"highlight_modified_tabs": true,
+	"tab_size": 4,
+	"find_selected_text": true,
+	"highlight_line": true,
+	"trim_trailing_white_space_on_save": true,
+	"trim_only_modified_white_space": false,
+	"ensure_newline_at_eof_on_save": true,
+	"translate_tabs_to_spaces": true,
+	// "draw_white_space": "all",
+	"rulers": [ 72, 79],
+	"ui_scale": 1.25,
+	"caret_extra_bottom": 0,
+	"caret_extra_top": 0,
+	"caret_extra_width": 0
+
+}
