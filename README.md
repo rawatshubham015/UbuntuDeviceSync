@@ -1,1 +1,1 @@
-This repository is used only to store ebooks in pdf format.
+This repository branch is only used to store ebooks in pdf format.
